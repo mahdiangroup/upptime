@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/rumahsunatan.net",
     "slug": "rsdm-net",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 828,
-    "timeDay": 811,
-    "timeWeek": 828,
-    "timeMonth": 828,
-    "timeYear": 828,
-    "dailyMinutesDown": {
-      "2022-07-26": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 839,
+    "timeDay": 913,
+    "timeWeek": 819,
+    "timeMonth": 839,
+    "timeYear": 839,
+    "dailyMinutesDown": {}
   },
   {
     "name": "VSM",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1247,
-    "timeDay": 864,
-    "timeWeek": 1247,
-    "timeMonth": 1247,
-    "timeYear": 1247,
+    "time": 1256,
+    "timeDay": 1318,
+    "timeWeek": 1273,
+    "timeMonth": 1256,
+    "timeYear": 1256,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 885,
-    "timeDay": 582,
-    "timeWeek": 885,
-    "timeMonth": 885,
-    "timeYear": 885,
+    "time": 874,
+    "timeDay": 799,
+    "timeWeek": 906,
+    "timeMonth": 874,
+    "timeYear": 874,
     "dailyMinutesDown": {}
   }
 ]
