@@ -4,9 +4,9 @@
     "url": "https://rumahsunatan.net",
     "icon": "https://favicons.githubusercontent.com/rumahsunatan.net",
     "slug": "rsdm-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 778,
     "timeMonth": 822,
     "timeYear": 829,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-29": 0
+    }
   },
   {
     "name": "VSM",
