@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/rumahsunatan.net",
     "slug": "rsdm-net",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 845,
-    "timeDay": 939,
-    "timeWeek": 891,
+    "uptimeYear": "99.98%",
+    "time": 843,
+    "timeDay": 700,
+    "timeWeek": 863,
     "timeMonth": 864,
-    "timeYear": 845,
+    "timeYear": 843,
     "dailyMinutesDown": {
       "2022-08-29": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1113,
-    "timeDay": 1066,
-    "timeWeek": 1122,
-    "timeMonth": 1080,
-    "timeYear": 1113,
+    "time": 1108,
+    "timeDay": 847,
+    "timeWeek": 990,
+    "timeMonth": 1076,
+    "timeYear": 1108,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 747,
-    "timeDay": 647,
-    "timeWeek": 674,
-    "timeMonth": 705,
-    "timeYear": 747,
+    "time": 744,
+    "timeDay": 577,
+    "timeWeek": 618,
+    "timeMonth": 704,
+    "timeYear": 744,
     "dailyMinutesDown": {}
   }
 ]
