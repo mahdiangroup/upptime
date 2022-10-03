@@ -2,7 +2,7 @@
   {
     "name": "RSDM Net",
     "url": "https://rumahsunatan.net",
-    "icon": "https://favicons.githubusercontent.com/rumahsunatan.net",
+    "icon": "https://icons.duckduckgo.com/ip3/rumahsunatan.net.ico",
     "slug": "rsdm-net",
     "status": "up",
     "uptime": "99.98%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 843,
-    "timeDay": 703,
-    "timeWeek": 832,
-    "timeMonth": 849,
+    "timeDay": 896,
+    "timeWeek": 860,
+    "timeMonth": 854,
     "timeYear": 843,
     "dailyMinutesDown": {
       "2022-08-29": 19
@@ -22,7 +22,7 @@
   {
     "name": "VSM",
     "url": "https://vsm.visisejahteramedika.co.id",
-    "icon": "https://favicons.githubusercontent.com/vsm.visisejahteramedika.co.id",
+    "icon": "https://icons.duckduckgo.com/ip3/vsm.visisejahteramedika.co.id.ico",
     "slug": "vsm",
     "status": "up",
     "uptime": "100.00%",
@@ -31,16 +31,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1069,
-    "timeDay": 891,
-    "timeWeek": 985,
-    "timeMonth": 994,
+    "timeDay": 1039,
+    "timeWeek": 1010,
+    "timeMonth": 1000,
     "timeYear": 1069,
     "dailyMinutesDown": {}
   },
   {
     "name": "ILS",
     "url": "https://vsm.visisejahteramedika.co.id",
-    "icon": "https://favicons.githubusercontent.com/vsm.visisejahteramedika.co.id",
+    "icon": "https://icons.duckduckgo.com/ip3/vsm.visisejahteramedika.co.id.ico",
     "slug": "ils",
     "status": "up",
     "uptime": "100.00%",
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 716,
-    "timeDay": 603,
-    "timeWeek": 657,
-    "timeMonth": 659,
+    "timeDay": 680,
+    "timeWeek": 672,
+    "timeMonth": 653,
     "timeYear": 716,
     "dailyMinutesDown": {}
   }
