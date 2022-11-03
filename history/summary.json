@@ -6,17 +6,16 @@
     "slug": "rsdm-net",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 836,
-    "timeDay": 733,
-    "timeWeek": 800,
-    "timeMonth": 820,
-    "timeYear": 836,
+    "time": 835,
+    "timeDay": 760,
+    "timeWeek": 780,
+    "timeMonth": 817,
+    "timeYear": 835,
     "dailyMinutesDown": {
-      "2022-11-02": 7,
       "2022-10-25": 26,
       "2022-08-29": 19
     }
@@ -32,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 1053,
-    "timeDay": 947,
-    "timeWeek": 933,
-    "timeMonth": 1016,
-    "timeYear": 1053,
+    "time": 1052,
+    "timeDay": 915,
+    "timeWeek": 911,
+    "timeMonth": 1012,
+    "timeYear": 1052,
     "dailyMinutesDown": {
       "2022-10-25": 26
     }
@@ -52,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 722,
-    "timeDay": 560,
-    "timeWeek": 655,
-    "timeMonth": 736,
-    "timeYear": 722,
+    "time": 721,
+    "timeDay": 608,
+    "timeWeek": 649,
+    "timeMonth": 734,
+    "timeYear": 721,
     "dailyMinutesDown": {}
   }
 ]
