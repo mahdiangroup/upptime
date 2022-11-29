@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/rumahsunatan.net.ico",
     "slug": "rsdm-net",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.97%",
-    "time": 834,
-    "timeDay": 943,
-    "timeWeek": 862,
-    "timeMonth": 821,
-    "timeYear": 834,
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
+    "time": 833,
+    "timeDay": 803,
+    "timeWeek": 840,
+    "timeMonth": 816,
+    "timeYear": 833,
     "dailyMinutesDown": {
-      "2022-11-28": 7,
       "2022-10-25": 26,
       "2022-08-29": 19
     }
@@ -33,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1039,
-    "timeDay": 1025,
+    "timeDay": 943,
     "timeWeek": 978,
-    "timeMonth": 971,
+    "timeMonth": 973,
     "timeYear": 1039,
     "dailyMinutesDown": {
       "2022-10-25": 26
@@ -52,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 709,
-    "timeDay": 653,
-    "timeWeek": 645,
+    "time": 708,
+    "timeDay": 631,
+    "timeWeek": 643,
     "timeMonth": 658,
-    "timeYear": 709,
+    "timeYear": 708,
     "dailyMinutesDown": {}
   }
 ]
