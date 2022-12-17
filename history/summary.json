@@ -6,17 +6,16 @@
     "slug": "rsdm-net",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 839,
-    "timeDay": 841,
-    "timeWeek": 889,
-    "timeMonth": 856,
+    "timeDay": 830,
+    "timeWeek": 878,
+    "timeMonth": 860,
     "timeYear": 839,
     "dailyMinutesDown": {
-      "2022-12-16": 6,
       "2022-10-25": 26,
       "2022-08-29": 19
     }
@@ -33,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1065,
-    "timeDay": 1140,
-    "timeWeek": 1467,
-    "timeMonth": 1136,
+    "timeDay": 1014,
+    "timeWeek": 1260,
+    "timeMonth": 1141,
     "timeYear": 1065,
     "dailyMinutesDown": {
       "2022-10-25": 26
@@ -53,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 721,
-    "timeDay": 708,
-    "timeWeek": 882,
-    "timeMonth": 737,
+    "timeDay": 826,
+    "timeWeek": 777,
+    "timeMonth": 745,
     "timeYear": 721,
     "dailyMinutesDown": {}
   }
